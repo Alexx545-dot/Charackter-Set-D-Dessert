@@ -5,3 +5,4 @@ mit 10 Jahren hat er aus Hunger versehentlich eine Teufelsfrucht gegessen Mystis
 Im Alter von 21 hatte er eine Crew bestehend aus 12 Mitglieder,
 sie wurden bekannt als die Black Dessert Piraten.
 Mittlerweile stehen 7 Inseln unter seiner Kontrolle und durch Allianzen mit verschiedenen Piraten Crews hat er die Kontrolle über eine 10.000 Man Starke Flotte
+durch seineen Schrägen Humor wurde er bekannt als der Unlustigste Pirat der 7 Weltmeere
