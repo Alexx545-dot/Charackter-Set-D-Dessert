@@ -3,14 +3,17 @@
 # Beschreibung Fiktiver Charakter Set D Dessert
 Set D Derrsert ist ein Fiktiver Charakter aus dem One Piece Universum er besitzt eine Teufels Frucht und eine neue Form von Haki
 
- 
- [Biographie.md]
+ #Biographie
+ [https://github.com/Alexx545-dot/Charackter-Set-D-Dessert/blob/main/Biographie.md]
 
+#Eigenschaften
+[https://github.com/Alexx545-dot/Charackter-Set-D-Dessert/blob/main/Eigenschaften.txt]
 
-[Eigenschaften.txt]
+#Abenteuer
+[https://github.com/Alexx545-dot/Charackter-Set-D-Dessert/blob/main/abenteuer.md]
 
-[abenteuer.md]
+#Manga-Panel
+[https://github.com/Alexx545-dot/Charackter-Set-D-Dessert/blob/main/Manga-panel.md]
 
-[Manga-panel.md]
-
-[ausrüstung.txt]
+#Ausrüstung
+[https://github.com/Alexx545-dot/Charackter-Set-D-Dessert/blob/main/ausr%C3%BCstung.txt]
