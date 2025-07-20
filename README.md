@@ -9,3 +9,5 @@ Set D Derrsert ist ein Fiktiver Charakter aus dem One Piece Universum er besitzt
 [Eigenschaften.txt]
 
 [abenteuer.md]
+
+[Manga-panel.md]
