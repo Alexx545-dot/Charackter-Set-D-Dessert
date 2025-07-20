@@ -22,4 +22,6 @@ _kursiv_
 `27+61`
 
 > zitat
-[Link](https://www.cbr.com/link-changes-zelda-franchise-explained/)
+![Link](![Download](https://github.com/user-attachments/assets/8ea91afb-4a07-42d1-abf2-93469160e785))
+
+
